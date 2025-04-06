@@ -59,13 +59,15 @@ Mai jos sunt detaliate functiile pinilor utilizati in proiect:
 
 Pin	    Functie	          Descriere
 GPIO1	  TX	            Transmiterea datelor catre periferice
+
 GPIO3	  RX	            Receptionarea datelor de la periferice
+
 GPIO12	I2C             SDA	Linie de date pentru comunicatia I2C
+
 GPIO13	I2C             SCL	Linie de ceas pentru comunicatia I2C
+
 GPIO14	Buton/Resetare	Functie de resetare a dispozitivului
-Nota: Configuratia pinilor poate fi ajustata in functie de cerintele finale ale sistemului.
 
-
-Testare si Validare: Schematicul si PCB-ul au fost validate prin simulatii si prototipare, asigurand performanta optima a dispozitivului.
+Configuratia pinilor poate fi ajustata.
 
 Planuri de Dezvoltare: Etapele urmatoare includ integrarea componentelor pentru display, alimentare prin baterie si dezvoltarea completa a modelului 3D al dispozitivului pentru validarea finala.
