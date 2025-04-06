@@ -1,8 +1,6 @@
 # TSC_Ebook
 Descriere Proiect
-Intr-o era digitala in care tehnologia transforma modul in care accesam si consumam informatia, OpenBook aduce o revolutie in lumea lecturii digitale. Acest proiect nu este doar despre un e-book reader, ci despre crearea unei experiente accesibile si inovatoare pentru toti pasionatii de lectura. OpenBook este conceput ca un dispozitiv open source, care pune la dispozitie o alternativa ieftina si usor de produs in masa, democratizand astfel accesul la literatura digitala.
-
-Un e-book reader este un dispozitiv electronic specializat pentru afisarea cartilor digitale, oferind un ecran cu tehnologie avansata care imita experienta unei carti tiparite, dar cu avantajul functiilor digitale moderne, precum reglarea marimii fontului, iluminarea integrata si conectivitatea pentru descarcarea instantanee a continutului.
+OpenBook este un proiect open source care isi propune sa creeze un e-book reader accesibil si usor de produs. Dispozitivul este conceput pentru a afisa carti digitale, oferind o experienta de lectura similara cu cea a unei carti tiparite, dar cu avantajele tehnologiei moderne. Proiectul nostru se bazeaza pe o proiectare simpla si eficienta, iar in aceasta etapa s-au dezvoltat schema electronica, PCB-ul si plasarea componentelor pe placa.
 
 Pentru a transforma aceasta viziune in realitate, am parcurs urmatoarele etape:
 
