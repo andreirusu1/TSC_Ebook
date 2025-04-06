@@ -20,6 +20,7 @@ Mai jos se prezinta o diagrama bloc schematica a principalelor componente si a i
 
 Bill Of Materials (BOM)
 Nr.	Componenta	Datasheet URL	Link site pt procurare
+
 1	ESP32-C6-WROOM-1-N8	[Datasheet](https://www.espressif.com/sites/default/files/documentation/esp32-c6-wroom-1_wroom-1u_datasheet_en.pdf)	[link](https://www.digikey.com/en/products/detail/espressif-systems/ESP32-C6-WROOM-1-N8/17728866?utm_source=snapeda&utm_campaign=buynow&utm_medium=aggregator)
 
 2	Micro-SD	[Datasheet](https://www.attend.com.tw/data/download/file/112A-TAAR-R03_Spec.pdf)	[link](https://www.digikey.com/en/products/detail/attend-technology/112A-TAAR-R03/17633923)
