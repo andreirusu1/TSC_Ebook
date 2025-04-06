@@ -14,6 +14,7 @@ Pentru a transforma aceasta viziune in realitate, am parcurs urmatoarele etape:
 
 
 Diagrama Bloc
+
 Mai jos se prezinta o diagrama bloc schematica a principalelor componente si a interconexiunilor acestora:
 ![diagrama](https://github.com/user-attachments/assets/beb14f03-0eaf-43f4-b607-428d83303f6e)
 
