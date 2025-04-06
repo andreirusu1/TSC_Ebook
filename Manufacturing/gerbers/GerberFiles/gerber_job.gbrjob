@@ -1,0 +1,24 @@
+{
+    "Header": {
+        "Comment": "All values are metric (mm)",
+        "CreationDate": "2025-04-06T13:58:43Z",
+        "GenerationSoftware": {
+            "Application": "Fusion Electronics",
+            "Vendor": "Autodesk",
+            "Version": "9.7.0"
+        },
+        "Part": "Single"
+    },
+    "Overall": {
+        "BoardThickness": 1.67,
+        "LayerNumber": 2,
+        "Name": {
+            "ProjectId": "PROIECT_TSC v99"
+        },
+        "Owner": "Andrei Rusu <ionut_andrei.rusu@stud.acs.upb.ro>",
+        "Size": {
+            "X": 170.2,
+            "Y": 111.2
+        }
+    }
+}
