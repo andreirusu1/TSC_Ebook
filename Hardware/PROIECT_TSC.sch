@@ -2955,9 +2955,9 @@ Stemma QT</text>
 <attribute name="NAME" x="113.919" y="128.524" size="1.016" layer="95" rot="R180"/>
 <attribute name="VALUE" x="121.539" y="128.524" size="1.016" layer="96" rot="R180"/>
 </instance>
-<instance part="EPD_C11" gate="G$1" x="104.14" y="132.08" smashed="yes" rot="R90">
-<attribute name="NAME" x="113.919" y="133.604" size="1.016" layer="95" rot="R180"/>
-<attribute name="VALUE" x="103.759" y="131.064" size="1.016" layer="96" rot="R180"/>
+<instance part="EPD_C11" gate="G$1" x="101.6" y="132.08" smashed="yes" rot="R90">
+<attribute name="NAME" x="111.379" y="133.604" size="1.016" layer="95" rot="R180"/>
+<attribute name="VALUE" x="101.219" y="131.064" size="1.016" layer="96" rot="R180"/>
 </instance>
 <instance part="EPD_C12" gate="G$1" x="96.52" y="134.62" smashed="yes" rot="R90">
 <attribute name="NAME" x="106.299" y="136.144" size="1.016" layer="95" rot="R180"/>
@@ -3442,7 +3442,8 @@ Stemma QT</text>
 <segment>
 <pinref part="SUPPLY15" gate="G$1" pin="GND"/>
 <wire x1="86.36" y1="162.56" x2="86.36" y2="167.64" width="0.1524" layer="91"/>
-<wire x1="86.36" y1="167.64" x2="93.98" y2="167.64" width="0.1524" layer="91"/>
+<wire x1="86.36" y1="167.64" x2="96.52" y2="167.64" width="0.1524" layer="91"/>
+<pinref part="R2" gate="G$1" pin="1"/>
 </segment>
 <segment>
 <pinref part="U2" gate="G$1" pin="GND"/>
@@ -3515,32 +3516,32 @@ Stemma QT</text>
 <wire x1="91.44" y1="134.62" x2="93.98" y2="134.62" width="0.1524" layer="91"/>
 <pinref part="EPD_C12" gate="G$1" pin="1"/>
 <pinref part="EPD_C11" gate="G$1" pin="1"/>
-<wire x1="101.6" y1="132.08" x2="91.44" y2="132.08" width="0.1524" layer="91"/>
+<wire x1="99.06" y1="132.08" x2="91.44" y2="132.08" width="0.1524" layer="91"/>
 <wire x1="91.44" y1="134.62" x2="91.44" y2="132.08" width="0.1524" layer="91"/>
 <wire x1="91.44" y1="132.08" x2="91.44" y2="129.54" width="0.1524" layer="91"/>
 <wire x1="91.44" y1="129.54" x2="111.76" y2="129.54" width="0.1524" layer="91"/>
 <pinref part="EPD_C10" gate="G$1" pin="1"/>
-<junction x="91.44" y="134.62"/>
-<junction x="91.44" y="132.08"/>
 <pinref part="EPD_C5" gate="G$1" pin="1"/>
 <wire x1="93.98" y1="111.76" x2="91.44" y2="111.76" width="0.1524" layer="91"/>
 <wire x1="91.44" y1="111.76" x2="91.44" y2="119.38" width="0.1524" layer="91"/>
-<junction x="91.44" y="129.54"/>
 <pinref part="EPD_C6" gate="G$1" pin="1"/>
 <wire x1="91.44" y1="119.38" x2="91.44" y2="121.92" width="0.1524" layer="91"/>
 <wire x1="91.44" y1="121.92" x2="91.44" y2="124.46" width="0.1524" layer="91"/>
 <wire x1="91.44" y1="124.46" x2="91.44" y2="127" width="0.1524" layer="91"/>
 <wire x1="91.44" y1="127" x2="91.44" y2="129.54" width="0.1524" layer="91"/>
 <wire x1="111.76" y1="119.38" x2="91.44" y2="119.38" width="0.1524" layer="91"/>
-<junction x="91.44" y="119.38"/>
 <pinref part="EPD_C7" gate="G$1" pin="1"/>
 <wire x1="99.06" y1="121.92" x2="91.44" y2="121.92" width="0.1524" layer="91"/>
-<junction x="91.44" y="121.92"/>
 <pinref part="EPD_C8" gate="G$1" pin="1"/>
 <wire x1="111.76" y1="124.46" x2="91.44" y2="124.46" width="0.1524" layer="91"/>
-<junction x="91.44" y="124.46"/>
 <pinref part="EPD_C9" gate="G$1" pin="1"/>
 <wire x1="99.06" y1="127" x2="91.44" y2="127" width="0.1524" layer="91"/>
+<junction x="91.44" y="134.62"/>
+<junction x="91.44" y="132.08"/>
+<junction x="91.44" y="129.54"/>
+<junction x="91.44" y="119.38"/>
+<junction x="91.44" y="121.92"/>
+<junction x="91.44" y="124.46"/>
 <junction x="91.44" y="127"/>
 </segment>
 <segment>
@@ -4638,7 +4639,7 @@ Stemma QT</text>
 <pinref part="J1" gate="G$1" pin="23"/>
 <wire x1="127" y1="132.08" x2="121.92" y2="132.08" width="0.1524" layer="91"/>
 <pinref part="EPD_C11" gate="G$1" pin="2"/>
-<wire x1="121.92" y1="132.08" x2="109.22" y2="132.08" width="0.1524" layer="91"/>
+<wire x1="121.92" y1="132.08" x2="106.68" y2="132.08" width="0.1524" layer="91"/>
 <wire x1="121.92" y1="132.08" x2="121.92" y2="137.16" width="0.1524" layer="91"/>
 <label x="121.92" y="137.16" size="1.016" layer="95" rot="R90" xref="yes"/>
 <junction x="121.92" y="132.08"/>
